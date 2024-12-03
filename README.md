@@ -6,7 +6,7 @@ Hello! 👋 I’m **Akshita Shetty**, a third-year B.Tech IT student with a pass
 - 🎨 **Passions**: Front-End Development, UI/UX Design, AI/ML, and Back-End Architecture
 - 🌱 **Currently Learning**: Django, MERN.
 - 🤝 **Collaborative**: Love working in teams and brainstorming innovative ideas
-- 📊 **Areas of Interest**: Healthcare, EdTech, and Data-Driven Applications
+- 📊 **Areas of Interest**: Healthcare, Data-Driven Applications
 
 ---
 
