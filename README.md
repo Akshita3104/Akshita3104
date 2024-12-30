@@ -27,7 +27,7 @@ Hello! 👋 I’m **Akshita Shetty**, a third-year B.Tech IT student with a pass
 
 ## 🌟 **Let’s Connect**
 - **📫 Email**: akshitashetty43@gmail.com  
-- **💼 LinkedIn**: www.linkedin.com/in/akshita-shetty-2oo4
+- **💼 LinkedIn**: www.linkedin.com/in/akshita-shetty-2004s
 
 ---
 
