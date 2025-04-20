@@ -44,14 +44,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
----
-
 ### 🏆 **Achievements**
 - 🥇 **Smart India Hackathon 2023** - Winner (Healthcare Category)
 - 🥈 **Google Solution Challenge 2022** - Regional Finalist
