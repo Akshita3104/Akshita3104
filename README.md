@@ -6,13 +6,8 @@
 
 ### 🚀 **About Me**
 <p align="justify">
-  Third-year B.Tech IT student blending technical expertise with design sensibility. Passionate about creating full-stack solutions that marry elegant interfaces with robust architecture. Currently exploring the intersection of healthcare technology and data-driven applications.
+  Third-year B.Tech IT student blending technical expertise with design sensibility. Passionate about creating full-stack solutions with elegant interfaces with robust architecture. Currently exploring the intersection of healthcare technology and data-driven applications.
 </p>
-
-- 🔭 **Building**: Healthcare analytics platform using Django & React
-- 🌱 **Learning**: Advanced Django REST Framework & TensorFlow
-- 👯 **Looking**: For collaborations on impactful open-source projects
-- ⚡ **Fun Fact**: Won 3 national-level UI/UX design competitions
 
 ---
 
@@ -40,7 +35,6 @@
 #### **Tools & Platforms**
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
