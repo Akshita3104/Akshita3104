@@ -44,13 +44,6 @@
 
 ---
 
-### 🏆 **Achievements**
-- 🥇 **Smart India Hackathon 2023** - Winner (Healthcare Category)
-- 🥈 **Google Solution Challenge 2022** - Regional Finalist
-- ✨ **AWS Educate Scholarship** Recipient (2023)
-
----
-
 ### 📫 **Let's Connect**
 <div align="center">
   <a href="https://www.linkedin.com/in/akshita-shetty-2004s" target="_blank">
