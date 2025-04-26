@@ -46,8 +46,5 @@
   <a href="mailto:akshitashetty43@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://akshitashetty.tech" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
 </div>
 
