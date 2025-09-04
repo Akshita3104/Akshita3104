@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshita+Shetty;Full-Stack+Developer;UI%2FUX+Enthusiast;AI%2FML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshita+Shetty!" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 **About Me**
 <p align="justify">
-  Third-year B.Tech IT student blending technical expertise with design sensibility. Passionate about creating full-stack solutions with elegant interfaces with robust architecture. Currently exploring the intersection of healthcare technology and data-driven applications.
+  B.Tech IT student blending technical expertise with design sensibility. Passionate about creating full-stack solutions with elegant interfaces and robust architecture. Currently exploring AI, data science, and modern web technologies.
 </p>
 
 ---
@@ -27,14 +27,21 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 
 #### **Data Science & ML**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
 
 #### **Tools & Platforms**
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🌟 **Featured Projects**
+
+- [Resumora](https://github.com/Akshita3104/Resumora): Automated resume builder leveraging machine learning.
+- [Invoice Data](#): Intelligent invoice data extraction and processing.
+- [Notoria](#): Smart notification and reminder platform.
+- [Knowtera](#): Knowledge management and collaboration tool.
 
 ---
 
@@ -48,3 +55,13 @@
   </a>
 </div>
 
+---
+
+### 📊 **My GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats-akshita3104.vercel.app/api?username=Akshita3104&show_icons=true&theme=radical&hide_title=true" alt="Akshita's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshita3104&theme=radical" alt="Akshita's GitHub Streak" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Akshita3104" alt="Akshita's Contribution Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshita3104&theme=radical" alt="Repos per Language" />
+</div>
