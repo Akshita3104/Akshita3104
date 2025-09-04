@@ -60,8 +60,7 @@
 ### 📊 **My GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats-akshita3104.vercel.app/api?username=Akshita3104&show_icons=true&theme=radical&hide_title=true" alt="Akshita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshita3104&show_icons=true&theme=radical" alt="Akshita's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshita3104&theme=radical" alt="Akshita's GitHub Streak" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Akshita3104" alt="Akshita's Contribution Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshita3104&theme=radical" alt="Repos per Language" />
 </div>
