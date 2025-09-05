@@ -1,11 +1,5 @@
 <img src="https://github.com/Akshita3104/Akshita3104/blob/main/pixel-jeff-matrix-s.gif" alt="Matrix Pixel Jeff Gif" width="100%" style="max-width:1200px; border-radius:10px;" />
-
-<hr style="border: none; height: 1px; background: #9B59B6; margin: 8px 0;"/>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=4000&pause=1000&color=E600FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Akshita+Shetty!;Data+Science+Enthusiast;AI+Explorer" alt="Typing SVG" style="max-width:800px; width:100%;" />
-  <div style="display:flex;justify-content:space-between;align-items:center;max-width:100%;margin-top:40px;">
+ <div style="display:flex;justify-content:space-between;align-items:center;max-width:100%;margin-top:40px;">
   <div>
     <span>
       <a href="https://www.linkedin.com/in/akshita-shetty-2004s" target="_blank">
@@ -17,6 +11,11 @@
     </span>
   </div>
 </div>
+<hr style="border: none; height: 1px; background: #9B59B6; margin: 8px 0;"/>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=4000&pause=1000&color=E600FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Akshita+Shetty!;Data+Science+Enthusiast;AI+Explorer" alt="Typing SVG" style="max-width:800px; width:100%;" />
 </p>
 
 
