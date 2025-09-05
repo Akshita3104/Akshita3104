@@ -17,20 +17,17 @@
 ---
 
 ## <span style="color:#9B59B6;">Coding Profiles</span>
-
-![My Coding Profiles](https://skillicons.dev/icons?i=leetcode,hackerrank,codechef)
-
-<span>
+<p>
   <a href="https://leetcode.com/u/AkshitaS2004/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="vertical-align:middle; margin-right:8px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="42" height="42"/>
   </a>
   <a href="https://www.hackerrank.com/profile/266_AKSHITA_C1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="vertical-align:middle; margin-right:8px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="42" height="42"/>
   </a>
   <a href="https://www.codechef.com/users/tidy_spice_10" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="40" height="40" style="vertical-align:middle; margin-right:8px; background:#fff; border-radius:8px; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" width="42" height="42" style="background:#white; border-radius:8px; padding:4px;"/>
   </a>
-</span>
+</p>
 
 ---
 
