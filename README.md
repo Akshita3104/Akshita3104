@@ -5,6 +5,18 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=4000&pause=1000&color=E600FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Akshita+Shetty!;Data+Science+Enthusiast;AI+Explorer" alt="Typing SVG" style="max-width:800px; width:100%;" />
+  <div style="display:flex;justify-content:space-between;align-items:center;max-width:100%;margin-top:40px;">
+  <div>
+    <span>
+      <a href="https://www.linkedin.com/in/akshita-shetty-2004s" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px;"/>
+      </a>
+      <a href="mailto:akshitashetty43@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px;"/>
+      </a>
+    </span>
+  </div>
+</div>
 </p>
 
 
@@ -76,22 +88,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<div style="display:flex;justify-content:space-between;align-items:center;max-width:100%;margin-top:40px;">
-  <div>
-    <h3 style="font-size:2em; color:#9B59B6; display:inline;">📫 Let's Connect</h3>
-    <span>
-      <a href="https://www.linkedin.com/in/akshita-shetty-2004s" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px;"/>
-      </a>
-      <a href="mailto:akshitashetty43@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px;"/>
-      </a>
-    </span>
-  </div>
-</div>
 
 ---
 
